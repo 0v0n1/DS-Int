@@ -1,0 +1,5 @@
+Python is the dominant programming language utilized to build modern artificial intelligence (AI) and machine learning solutions.
+Its clean and simple syntax allows developers to focus on solving complex AI problems rather than fighting difficult code structures.
+The language provides powerful pre-built frameworks like TensorFlow and PyTorch that drastically reduce development time for neural networks.
+Developers also use specialized libraries like Pandas and NumPy to easily clean, slice, and process the massive datasets required to train AI models.
+adding new line 
